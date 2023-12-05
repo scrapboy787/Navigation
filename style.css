@@ -33,7 +33,7 @@ body{
     padding-right: 15px;
 }
 #showcase{
-    background-image: url("img/img-1.jpg");
+    background-image: url("img-1.jpg");
     background-position: center right;
     min-height: 300px;
     margin-bottom: 30px;
